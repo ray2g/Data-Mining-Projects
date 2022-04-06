@@ -1,0 +1,243 @@
+With Alpha =  0.1
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'acousticness_Low', 'instrumentalness_Low', 'energy_Medium', 'valence_Low', 'energy_High', 'key_1', 'key_10', 'key_11', 'duration_in min/ms_High', 'danceability_Low', 'liveness_High', 'key_10', 'key_5', 'key_6'] 
+
+Final F1-Score:  0.3936 
+
+Total Time:  124.69337630271912 
+
+
+
+
+With Alpha =  0.2
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'acousticness_Low', 'instrumentalness_Low', 'energy_Medium', 'valence_Low', 'energy_High', 'key_1', 'key_10', 'key_11', 'duration_in min/ms_High', 'key_5', 'key_9', 'valence_Medium', 'key_10', 'time_signature_1'] 
+
+Final F1-Score:  0.3904 
+
+Total Time:  127.65800261497498 
+
+
+
+
+With Alpha =  0.3
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'acousticness_Low', 'valence_Low', 'energy_Medium', 'instrumentalness_Low', 'energy_High', 'key_2', 'key_6'] 
+
+Final F1-Score:  0.3838 
+
+Total Time:  102.82201766967773 
+
+
+
+
+With Alpha =  0.4
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'acousticness_Low', 'valence_Low', 'energy_Medium', 'instrumentalness_Low', 'energy_High', 'key_2', 'key_6', 'key_8'] 
+
+Final F1-Score:  0.3839 
+
+Total Time:  94.7595465183258 
+
+
+
+
+With Alpha =  0.5
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'acousticness_Low', 'valence_Low', 'energy_Medium', 'instrumentalness_Low', 'energy_High', 'key_2', 'key_6', 'key_3'] 
+
+Final F1-Score:  0.3843 
+
+Total Time:  94.50119423866272 
+
+
+
+
+With Alpha =  0.6
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'acousticness_Low', 'valence_Low', 'energy_High', 'instrumentalness_Low', 'energy_Medium', 'key_2', 'key_6', 'key_3', 'key_8', 'time_signature_5'] 
+
+Final F1-Score:  0.3848 
+
+Total Time:  108.83298397064209 
+
+
+
+
+With Alpha =  0.7
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'acousticness_Low', 'valence_Low', 'energy_High', 'instrumentalness_Low', 'energy_Medium', 'key_2', 'key_8', 'key_6', 'key_3'] 
+
+Final F1-Score:  0.3848 
+
+Total Time:  279.72901487350464 
+
+
+
+
+With Alpha =  0.8
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'acousticness_Low', 'valence_Low', 'energy_High', 'instrumentalness_Low', 'energy_Medium', 'key_1', 'key_10', 'key_11', 'duration_in min/ms_High', 'danceability_Medium', 'mode_1', 'liveness_Low', 'key_9', 'time_signature_1', 'key_8'] 
+
+Final F1-Score:  0.3902 
+
+Total Time:  294.3426868915558 
+
+
+
+
+With Alpha =  0.9
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'acousticness_Low', 'valence_Low', 'energy_Medium', 'instrumentalness_Low', 'duration_in min/ms_High', 'key_5', 'loudness_High', 'key_2', 'key_3', 'tempo_Medium', 'tempo_Low', 'key_4', 'key_9', 'mode_1', 'liveness_High', 'time_signature_4'] 
+
+Final F1-Score:  0.3956 
+
+Total Time:  273.1551718711853 
+
+
+
+
+With Alpha =  1
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'acousticness_Low', 'valence_Low', 'energy_High', 'instrumentalness_Low', 'energy_Medium', 'liveness_Medium', 'key_4', 'time_signature_5'] 
+
+Final F1-Score:  0.385 
+
+Total Time:  92.74441313743591 
+
+
+
+
+With Alpha =  2
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'acousticness_Low', 'valence_Low', 'energy_High', 'mode_1', 'instrumentalness_Low', 'danceability_Medium', 'duration_in min/ms_High'] 
+
+Final F1-Score:  0.3871 
+
+Total Time:  81.81699991226196 
+
+
+
+
+With Alpha =  3
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'acousticness_Low', 'valence_Low', 'energy_High', 'key_6', 'mode_1', 'instrumentalness_Low', 'key_4', 'key_2', 'time_signature_5'] 
+
+Final F1-Score:  0.3856 
+
+Total Time:  93.41602516174316 
+
+
+
+
+With Alpha =  4
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'acousticness_Low', 'valence_Low', 'energy_High', 'instrumentalness_Low', 'key_1', 'key_10', 'key_11', 'key_3'] 
+
+Final F1-Score:  0.3815 
+
+Total Time:  70.81100010871887 
+
+
+
+
+With Alpha =  5
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'acousticness_Low', 'valence_Low', 'instrumentalness_Low', 'energy_High', 'key_1', 'key_10', 'key_11', 'key_9'] 
+
+Final F1-Score:  0.3806 
+
+Total Time:  68.5580141544342 
+
+
+
+
+With Alpha =  6
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'acousticness_Low', 'valence_Low', 'energy_High', 'instrumentalness_Low', 'key_1', 'key_10', 'key_11', 'key_3', 'mode_1', 'liveness_High', 'tempo_Medium', 'duration_in min/ms_High', 'key_9', 'key_6', 'time_signature_3', 'mode_0', 'key_4'] 
+
+Final F1-Score:  0.3933 
+
+Total Time:  130.04192924499512 
+
+
+
+
+With Alpha =  7
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'valence_Low', 'acousticness_Low', 'energy_High', 'speechiness_Medium', 'key_5', 'key_9', 'instrumentalness_Low', 'mode_1', 'liveness_High', 'key_3'] 
+
+Final F1-Score:  0.3833 
+
+Total Time:  98.7865641117096 
+
+
+
+
+With Alpha =  8
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'valence_Low', 'acousticness_Low', 'energy_High', 'speechiness_Medium', 'key_5'] 
+
+Final F1-Score:  0.3739 
+
+Total Time:  64.56898880004883 
+
+
+
+
+With Alpha =  9
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'loudness_High', 'valence_Low', 'acousticness_Low', 'key_6', 'key_7'] 
+
+Final F1-Score:  0.3709 
+
+Total Time:  64.02599859237671 
+
+
+
+
+With Alpha =  10
+
+
+
+Selected Features:  ['instrumentalness_High', 'duration_in min/ms_Low', 'acousticness_High', 'valence_High', 'danceability_High', 'speechiness_High', 'speechiness_Low', 'time_signature_3', 'mode_1', 'acousticness_Low', 'liveness_High', 'mode_0', 'key_6', 'instrumentalness_Low', 'duration_in min/ms_High', 'loudness_High', 'key_1', 'key_10', 'key_11', 'tempo_Medium', 'valence_Medium', 'key_7'] 
+
+Final F1-Score:  0.3898 
+
+Total Time:  118.57602334022522 

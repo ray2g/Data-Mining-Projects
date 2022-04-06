@@ -1,0 +1,245 @@
+With Alpha =  0.1
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  114.8920042514801 
+
+
+
+
+With Alpha =  0.2
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  116.8999969959259 
+
+
+
+
+With Alpha =  0.3
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  117.45503067970276 
+
+
+
+
+With Alpha =  0.4
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  111.042973279953 
+
+
+
+
+With Alpha =  0.5
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  113.47500038146973 
+
+
+
+
+With Alpha =  0.6
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  113.11900043487549 
+
+
+
+
+With Alpha =  0.7
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  106.82468938827515 
+
+
+
+
+With Alpha =  0.8
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  109.65296912193298 
+
+
+
+
+With Alpha =  0.9
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  116.67445588111877 
+
+
+
+
+With Alpha =  1
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  117.6069974899292 
+
+
+
+
+With Alpha =  2
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  110.18901348114014 
+
+
+
+
+With Alpha =  3
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  105.78498840332031 
+
+
+
+
+With Alpha =  4
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  106.88500022888184 
+
+
+
+
+With Alpha =  5
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  106.52800250053406 
+
+
+
+
+With Alpha =  6
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  107.01499700546265 
+
+
+
+
+With Alpha =  7
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  109.29720401763916 
+
+
+
+
+With Alpha =  8
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  109.13900113105774 
+
+
+
+
+With Alpha =  9
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  114.7450339794159 
+
+
+
+
+With Alpha =  10
+
+
+
+Selected Features:  ['valence_Medium'] 
+
+Final F1-Score:  0.4968 
+
+Total Time:  108.74409317970276 
+
+
