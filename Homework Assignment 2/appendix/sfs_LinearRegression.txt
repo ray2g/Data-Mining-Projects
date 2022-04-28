@@ -1,21 +1,18 @@
 Best Selected Features:
 
-    Index                Selected Features
-0   5      entropy_atomic_mass            
-1   6      wtd_entropy_atomic_mass        
-2   27     range_atomic_radius            
-3   30     wtd_std_atomic_radius          
-4   42     wtd_mean_ElectronAffinity      
-5   44     wtd_gmean_ElectronAffinity     
-6   50     wtd_std_ElectronAffinity       
-7   60     wtd_std_FusionHeat             
-8   66     wtd_entropy_ThermalConductivity
-9   69     std_ThermalConductivity        
-10  70     wtd_std_ThermalConductivity    
-11  80     wtd_std_Valence                 
+   Index                Selected Features
+0     27              range_atomic_radius
+1     42        wtd_mean_ElectronAffinity
+2     44       wtd_gmean_ElectronAffinity
+3     50         wtd_std_ElectronAffinity
+4     60               wtd_std_FusionHeat
+5     66  wtd_entropy_ThermalConductivity
+6     69          std_ThermalConductivity
+7     70      wtd_std_ThermalConductivity
+8     80                  wtd_std_Valence 
 
 
 Explained Variance Score:
-RVE RFs:  0.9141
-RVE DTs:  0.7788
-RVE LRs:  0.6655
+RVE RFs:  0.9115
+RVE DTs:  0.7683
+RVE LRs:  0.6558
